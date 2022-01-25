@@ -1,0 +1,48 @@
+/* 
+    homepage.css
+    css for the directory pages (index.html, stylisbot/home.html).
+    -- oicleevan
+*/
+
+body {
+    font-size: 20px;
+    color: #e4dbc4; background: #222;
+}
+
+header {
+    text-align: center;
+    font-size: 125%;
+}
+
+header h1, header img {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+ul li { padding-right: 15px; }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+a:link { color: #6af2ff }
+a:visited { color: #b607bf }
+
+footer {
+    position: fixed;
+    text-align: center;
+    bottom: 5px;
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+}

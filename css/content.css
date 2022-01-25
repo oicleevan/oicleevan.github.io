@@ -1,0 +1,43 @@
+/* 
+    content.css
+    css for pages including content -- right now, about and projects
+    -- oicleevan
+*/
+
+body {
+    margin:40px auto; max-width:650px;
+    font-size: 20px; 
+    color: #e4dbc4; background: #222;
+    line-height: 1.6;
+}
+
+header {
+    margin: 40px auto; max-width: 650px;
+    text-align: center;
+    line-height: .6;
+}
+
+h4 {
+    margin: 1px;
+}
+
+.content { padding-left: 15px; }
+
+a:link { 
+    color: #6af2ff
+}
+
+a:visited {
+    color: #b607bf
+}
+
+/* button that sends to top of site */
+#topBtn {
+    background-color: #e4dbc4;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#topBtn:hover {
+    background-color: #555;
+}
