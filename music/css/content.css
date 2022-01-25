@@ -9,10 +9,14 @@ img {
   width: 400px;
 }
 
-hr.content {
+hr {
   width: 80%;
 }
 
-h3.content {
+h3 {
   text-align: center;
+}
+
+h3.listen {
+  margin-bottom: 5px;
 }
