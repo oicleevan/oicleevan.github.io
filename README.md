@@ -6,7 +6,7 @@
 
 a host for my goings on, projects, links to my other stuff, etc.
 
-[**oh yeah, and a music blog.**](https://oicleevan.xyz/music/home.html "it's pretty epic")]
+[**oh yeah, and a music blog.**](https://oicleevan.xyz/music/home.html "it's pretty epic")
 
 awesome! cool! epic!
 
