@@ -6,9 +6,7 @@
 
 a host for my goings on, projects, links to my other stuff, etc.
 
-[**oh yeah, and a music blog.**](https://oicleevan.xyz/music/home.html)
-
-hosts documentation for my twitch bot ([repo](https://github.com/oicleevan/stylisbot)/[site](https://oicleevan.xyz/stylisbot/home.html)), talks about my awesome new game, [the deeps](https://github.com/oicleevan/the-deeps).
+[![**oh yeah, and a music blog.**](https://oicleevan.xyz/music/home.html "it's pretty epic")]
 
 awesome! cool! epic!
 
