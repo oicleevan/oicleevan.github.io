@@ -1,55 +1,54 @@
-<!--
-    home.html
-    Updated homepage/directory for website. Previously home.html
-    -- oicleevan
--->
-
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>oicleevan</title>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>oicleevan</title>
 
-        <link rel="stylesheet" href="/css/homepage.css">
-        <link rel="shortcut icon" href="/images/billyapprove.png" type="image/x-icon">
+    <link rel="stylesheet" href="/css/homepage.css">
+    <link rel="shortcut icon" href="/images/billyapprove.png" type="image/x-icon">
 
-        <script>
-            function redirect() {
-                window.location.href = "https://github.com/oicleevan/the-deeps/blob/master/README.md"
-            }
-        </script>
-    </head>
+    <meta content="evan's website - homepage" property="og:title" />
+    <meta content="look who it is!" property="og:description" />
+    <meta content="https://cdn.betterttv.net/emote/5e1ddb01bca2995f13fb70be/3x" property="og:image" />
+    <meta content="#e4dbc4" data-react-helmet="true" name="theme-color" />
 
-    <body>
-        <header>
-            <h1>Evan Oicle</h1>
-            <aside>hackerman</aside>
+    <script>
+        function redirect(location) {
+            window.location.href = location
+        }
+    </script>
+</head>
 
-            <img src="/images/hackerCD.gif" width=225 alt="Selfie" title="Selfie" style="margin-top: 0px;">
-        </header>
+<body>
+    <header>
+        <h1>Evan Oicle</h1>
+        <aside>hackerman</aside>
 
-        <hr style="width: 98%">
+        <img src="/images/hackerCD.gif" width="225" alt="Selfie" title="Selfie" style="margin-top: 0px;">
+    </header>
 
-        <ul>
-            <li><a href="about.html">about me</a></li>
-            <li><a href="/music/home.html">my favourite music</a></li>
-            <li><a href="projects.html">my projects</a></li>
-            <li><a href="links.html">my links</a></li>
-        </ul>
+    <hr style="width: 98%">
+
+    <ul>
+        <li><a href="about.html">about me</a></li>
+        <li><a href="/music/home.html">my favourite music</a></li>
+        <li><a href="projects.html">my projects</a></li>
+        <li><a href="links.html">my links</a></li>
+    </ul>
 
 
-        <div title="THE DEEPS - my new game" onclick=redirect()>
-            <img src="https://i.ibb.co/kJjV5jH/2021-09-18-16-22.png" class="center" style="width: 65%">
-            <p style="text-align: center;"><br>Check out my game!</p>
-        </div>
+    <div title="THE DEEPS - my new game" onclick="redirect('github.com/oicleevan/the-deeps/blob/master/README.md')">
+        <img src="https://i.ibb.co/kJjV5jH/2021-09-18-16-22.png" class="center" style="width: 65%">
+        <p style="text-align: center;"><br>Check out my game!</p>
+    </div>
 
-        <footer>
-            <p>made with love by github/oicleevan</p>
-            <p><a href="https://github.com/oicleevan"><img src="/images/GitHub-Mark-Light-32px.png" width=26>
-                my github</a>
-            </p>
-        </footer>
-    </body>
+    <footer>
+        <p>made with love by github/oicleevan</p>
+        <p><a href="https://github.com/oicleevan"><img src="/images/GitHub-Mark-Light-32px.png" width="26">
+            my github</a>
+        </p>
+    </footer>
+</body>
 </html>
