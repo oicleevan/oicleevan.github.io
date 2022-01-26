@@ -43,6 +43,10 @@ footer {
     width: 100%;
 }
 
+footer p {
+    margin-bottom: 5px;
+}
+
 h3 {
     text-align: center;
 }

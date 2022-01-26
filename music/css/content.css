@@ -13,15 +13,9 @@ hr {
   width: 80%;
 }
 
-h3 {
+h3, h4 {
   text-align: center;
 }
-
-h4 {
-  text-align: center;
-  padding-bottom: 0px;
-}
-
 h3.listen {
   margin-bottom: 5px;
 }
