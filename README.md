@@ -1,12 +1,12 @@
 # evan's website
 
-**now hosted at [oicleevan.xyz](https://oicleevan.xyz)!**
+**now hosted at [oicleevan.github.io](https://oicleevan.github.io)!**
 
 ## what is this?
 
 a host for my goings on, projects, links to my other stuff, etc.
 
-[**oh yeah, and a music blog.**](https://oicleevan.xyz/music/home.html "it's pretty epic")
+[**oh yeah, and a music blog.**](https://oicleevan.github.io/music.html "it's pretty epic")
 
 awesome! cool! epic!
 
