@@ -4,9 +4,7 @@
 
 ## what is this?
 
-a host for my goings on, projects, links to my other stuff, etc.
-
-[**oh yeah, and a music blog.**](https://oicleevan.github.io/music.html "it's pretty epic")
+my website. bit about myself and my goings on. [music 'review' thing is around too.](https://oicleevan.github.io/music.html)
 
 awesome! cool! epic!
 
